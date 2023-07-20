@@ -40,6 +40,7 @@ struct ContentView: View {
                                 Alert(title: Text("Secret Message"),
                                       message: Text("Im a RICH PUPPET"),
                                       dismissButton: .default(Text("OK")))
+                                ///
                 }
             }
         }
